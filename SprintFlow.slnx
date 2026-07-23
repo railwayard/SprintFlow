@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/SprintFlow.API/SprintFlow.API.csproj" />
+    <Project Path="src/SprintFlow.Application/SprintFlow.Application.csproj" />
+    <Project Path="src/SprintFlow.Domain/SprintFlow.Domain.csproj" />
+    <Project Path="src/SprintFlow.Infrastructure/SprintFlow.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/SprintFlow.Tests/SprintFlow.Tests.csproj" />
+  </Folder>
+</Solution>
