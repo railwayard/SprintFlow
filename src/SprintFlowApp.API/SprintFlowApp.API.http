@@ -1,0 +1,12 @@
+@host = http://localhost:5270
+
+### Create Organization
+POST {{host}}/api/Organizations
+Content-Type: application/json
+
+{
+  "name": "Acme Corporation"
+}
+
+### Get All Organizations
+GET {{host}}/api/Organizations
